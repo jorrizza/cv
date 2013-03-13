@@ -78,7 +78,7 @@ Skills
 
 * **Languages**
 
-  Dutch (native), English (fluent)
+  Dutch (native), Brabantish (fluent), English (fluent)
 
 * **Programming Languages**
 
@@ -94,6 +94,11 @@ Skills
 * **Servers**
 
   Sun Microsystems, HP, Supermicro hardware. KVM/libvirt virtual machines.
+
+* **Hosting**
+
+  From generic LAMP to unique application-specific constructions. Load balancing
+  (Nginx, OpenBSD PF and HAProxy), monitoring, high-availability.
 
 * **Networking**
 
