@@ -1,5 +1,4 @@
 syntax: glob
 
 vendor
-*.pdf
-*.html
+cv.html
