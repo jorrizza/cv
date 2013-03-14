@@ -117,5 +117,5 @@ Skills
 Hobbies and Interests
 ---------------------
 
-Motorcycle traveling, (political) philosophy, civil rights, obscure computer
+Motorcycle travelling, (political) philosophy, civil rights, obscure computer
 hardware and a bit of photography.
