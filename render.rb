@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
 
+require 'erb'
 require 'bundler/setup'
 require 'redcarpet'
 require 'nokogiri'
@@ -9,7 +10,7 @@ include Redcarpet
 class CV <  Render::HTML
   [:doc_header, :doc_footer].each do |m|
     define_method m do
-      IO.read("#{m}.html")
+      ERB.new(IO.read("#{m}.html.erb")).result
     end
   end
 
