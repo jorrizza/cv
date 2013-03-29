@@ -1,4 +1,3 @@
 syntax: glob
 
-cv.html
-cv.pdf
+cv.*
