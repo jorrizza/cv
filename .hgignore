@@ -1,4 +1,4 @@
 syntax: glob
 
-vendor
 cv.html
+cv.pdf
