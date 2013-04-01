@@ -1,24 +1,15 @@
 .PHONY: all clean
 
-all: cv.html cv.pdf cv.rtf cv.odt cv.epub cv.docx
+cvfiles = cv.html cv.pdf cv.rtf cv.odt cv.epub cv.docx
+
+all: $(cvfiles)
 
 clean:
-	rm -fv cv.*
-
-cv.pdf: README.md
-	pandoc -o $@ $<
+	rm -fv $(cvfiles)
 
 cv.html: README.md
 	pandoc -s -t html5 -o $@ $<
 
-cv.rtf: README.md
+cv.%: README.md
 	pandoc -s -o $@ $<
 
-cv.odt: README.md
-	pandoc -s -o $@ $<
-
-cv.docx: README.md
-	pandoc -s -o $@ $<
-
-cv.epub: README.md
-	pandoc -s -o $@ $<
