@@ -1,6 +1,6 @@
 % Curriculum Vitae
 % Joris van Rooij, Software Engineer and Ops Guy
-% Fri Mar 29 15:54:51 CET 2013
+% Tue Apr  2 18:00:45 CEST 2013
 
 ---------------------------------------
 
@@ -30,11 +30,14 @@ Dr. Knippenbergcollege, Helmond
 
 ### *2012-now:* Software Engineer at *ViaViela B.V.* ###
 
-Mainly Ruby on Rails development and day-to-day operations.
+Mainly Ruby on Rails development and day-to-day operations. This includes cloud
+services like Heroku and Amazon S3. I'm also responsible for managing the
+existing legacy Linux systems and OpenBSD infrastructure.
 
 ### *2010-now:* Benevolent Dictator at *CodeVentures B.V.* ###
 
-Running my own company doing pretty much all sorts of IT-related work.
+Running my own company doing pretty much all sorts of IT-related work. Mainly
+DevOps related.
 
 ### *2010-now:* Co-owner and founder at *Tussen B.V.* ###
 
@@ -44,8 +47,8 @@ A joint venture of CodeVentures and Expleo to maximize awesomeness.
 
 Managed and executed the construction of a development and hosting platform,
 hardware and all, for our in-house Ruby on Rails application. Main components
-include Debian, Nginx, Ruby, HAProxy, Icinga and PostgreSQL. I've also built
-parts of the application, including a nifty ajaxy search engine.
+include Debian, Nginx, Ruby, HAProxy, Nagios/Icinga and PostgreSQL. I've also
+built parts of the application, including a nifty ajaxy search engine.
 
 ### *2005-now:* Co-founder at *WasdaPuntEnEl* ###
 
@@ -54,19 +57,23 @@ hosting mail, development space, websites and some communication relay services.
 
 ### *2011-2012:* IT Consultant at *ViaViela B.V.* ###
 
-Kept a mid-size LAMP stack running. Managed a large VPN for remote desktops,
-telephony and hosting. Did some software development as well.
+Kept the e-Viela! NAMP stack running. Managed a large VPN (OpenBSD, Tinc) for
+remote desktops (NX), telephony (Asterisk) and hosting. Did some software
+development as well. Mainly Ruby on Rails and PHP.
 
 ### *2006-2010:* Software Engineer at *e-Viela! B.V.* ###
 
 F/LOSS based software solutions for medium to big sized organizations. I've
-helped building one of the most awesome LAMP stacks in the world. This company's
-activities have been merged into ViaViela B.V. in 2011.
+helped building one of the most awesome LAMP stacks in the world. Mainly using
+Debian GNU/Linux, Apache, MySQL, PHP, DRBD and Heartbeat2. The entire stack has
+been migrated to Nginx. I've helped introduce Linux desktops (NX) into the
+company. This company's activities have been merged into ViaViela B.V. in 2011.
 
 ### *2004-2008:* Software Engineer at *Eurovision Multimedia* ###
 
-Made them a web shop which integrated with existing sales software. Apparently I
-didn't do too well. The company ceased to exist.
+Made them a web shop which integrated with existing sales software using PHP,
+Apache, MySQL and Linux. Apparently I didn't do too well. The company ceased to
+exist.
 
 ## Skills ##
 
@@ -97,7 +104,8 @@ From generic LAMP to unique application-specific constructions. Load balancing
 ### Networking ###
 
 Network topologies and design, VPNs (Tinc, OpenVPN), routing and firewalling
-using *BSD and/or Linux, DNS, DHCP, PXE and several other related acronyms.
+using *BSD and/or Linux, DNS, DHCP, PXE, TCP/IP and several other related
+acronyms.
 
 ### Databases ###
 
