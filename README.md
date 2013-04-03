@@ -1,6 +1,6 @@
 % Curriculum Vitae
 % Joris van Rooij, Software Engineer and Ops Guy
-% Tue Apr  2 18:00:45 CEST 2013
+% Wed Apr  3 19:55:56 CEST 2013
 
 ---------------------------------------
 
@@ -57,7 +57,7 @@ hosting mail, development space, websites and some communication relay services.
 
 ### *2011-2012:* IT Consultant at *ViaViela B.V.* ###
 
-Kept the e-Viela! NAMP stack running. Managed a large VPN (OpenBSD, Tinc) for
+Kept the e-Viela! LNMP stack running. Managed a large VPN (OpenBSD, Tinc) for
 remote desktops (NX), telephony (Asterisk) and hosting. Did some software
 development as well. Mainly Ruby on Rails and PHP.
 
