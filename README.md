@@ -100,7 +100,9 @@ Sun Microsystems, HP, Supermicro hardware. KVM/libvirt virtual machines.
 ### Hosting ###
 
 From generic LAMP to unique application-specific constructions. Load balancing
-(Nginx, OpenBSD PF and HAProxy), monitoring, high-availability.
+(Nginx, OpenBSD PF and HAProxy), monitoring, high-availability, automated
+deployment and configuration, virtualization, email and all the bits and pieces
+needed to keep systems working properly.
 
 ### Networking ###
 
@@ -110,7 +112,8 @@ acronyms.
 
 ### Databases ###
 
-MySQL and PostgreSQL, both in clustered setups.
+MySQL and PostgreSQL, both in clustered setups. MongoDB, Redis and
+memcached(b). SQLite too, to some extent.
 
 ### Project management ###
 
