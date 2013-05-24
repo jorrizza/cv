@@ -12,7 +12,8 @@
 * *citizenship:* Dutch
 * *year of birth:* 1987
 * *marital status:* Single
-* *email address:* jorrizza@jrrzz.net
+* *email address:* jorrizza@codeventures.net
+* *xmpp address:* jorrizza@im.codeventures.net
 * *phone number:* +31 633035935
 * *drivers license:* European A (motorcycle)
 
