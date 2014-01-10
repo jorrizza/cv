@@ -44,17 +44,17 @@ DevOps related.
 
 A joint venture of CodeVentures and Expleo to maximize awesomeness.
 
-### *2010-now:* Co-founder at *Mediaklapper* ###
+### *2005-now:* Co-founder at *WasdaPuntEnEl* ###
+
+Linux/Unix enthusiasts sharing rack space and a common domain name. It's still
+hosting mail, development space, websites and some communication relay services.
+
+### *2010-2014:* Co-founder at *Mediaklapper* ###
 
 Managed and executed the construction of a development and hosting platform,
 hardware and all, for our in-house Ruby on Rails application. Main components
 include Debian, Nginx, Ruby, HAProxy, Nagios/Icinga and PostgreSQL. I've also
 built parts of the application, including a nifty ajaxy search engine.
-
-### *2005-now:* Co-founder at *WasdaPuntEnEl* ###
-
-Linux/Unix enthusiasts sharing rack space and a common domain name. It's still
-hosting mail, development space, websites and some communication relay services.
 
 ### *2011-2012:* IT Consultant at *ViaViela B.V.* ###
 
