@@ -1,6 +1,6 @@
 % Curriculum Vitae
 % Joris van Rooij, Software Engineer and Ops Guy
-% Fri May 24 11:36:55 CEST 2013
+% Wed Oct 12 21:13:38 CEST 2016
 
 ---------------------------------------
 
@@ -13,7 +13,6 @@
 * *year of birth:* 1987
 * *marital status:* Single
 * *email address:* jorrizza@codeventures.net
-* *xmpp address:* jorrizza@im.codeventures.net
 * *phone number:* +31 633035935
 * *drivers license:* European A (motorcycle)
 
@@ -29,6 +28,15 @@ Dr. Knippenbergcollege, Helmond
 
 ## Work Experience ##
 
+### *2013-now:* Co-founder and DevOps Connaisseur at *Constructors* ###
+
+A group of likeminded individuals forming a full service web engineering
+bureau. I'm mainly responsible for keeping the applications running smoothly on
+our in-house hosting platform. It includes automatic deployment, monitoring and
+analytics of mission critical applications in many countries for a wide range of
+customers. Sometimes I can also be seen doing some Ruby on Rails or Django web
+development work.
+
 ### *2012-now:* Software Engineer at *ViaViela B.V.* ###
 
 Mainly Ruby on Rails development and day-to-day operations. This includes cloud
@@ -40,14 +48,14 @@ existing legacy Linux systems and OpenBSD infrastructure.
 Running my own company doing pretty much all sorts of IT-related work. Mainly
 DevOps related.
 
-### *2010-now:* Co-owner and founder at *Tussen B.V.* ###
-
-A joint venture of CodeVentures and Expleo to maximize awesomeness.
-
 ### *2005-now:* Co-founder at *WasdaPuntEnEl* ###
 
 Linux/Unix enthusiasts sharing rack space and a common domain name. It's still
 hosting mail, development space, websites and some communication relay services.
+
+### *2010-2015:* Co-owner and founder at *Tussen B.V.* ###
+
+A joint venture of CodeVentures and Expleo to maximize awesomeness.
 
 ### *2010-2014:* Co-founder at *Mediaklapper* ###
 
@@ -87,7 +95,7 @@ Dutch (native), Brabantish (fluent), English (fluent)
 * *thorough understanding:*
   C, Ruby, Go, JavaScript, PHP, Bash/sh, SQL
 * *basic understanding:*
-  Emacs Lisp, Lua, Python, Awk, C++, Java
+  Emacs Lisp, Lua, Python, Awk, C++, Java, Rust
 
 ### Operating Systems ###
 
@@ -101,8 +109,8 @@ Sun Microsystems, HP, Supermicro hardware. KVM/libvirt virtual machines.
 
 From generic LAMP to unique application-specific constructions. Load balancing
 (Nginx, OpenBSD PF and HAProxy), monitoring, high-availability, automated
-deployment and configuration, virtualization, email and all the bits and pieces
-needed to keep systems working properly.
+deployment and configuration, virtualization, containers, logging, email and all
+the bits and pieces needed to keep systems working properly.
 
 ### Networking ###
 
