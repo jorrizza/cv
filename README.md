@@ -11,7 +11,7 @@
 * *place of residence:* Eindhoven, the Netherlands
 * *citizenship:* Dutch
 * *year of birth:* 1987
-* *marital status:* Single
+* *marital status:* Married
 * *email address:* jorrizza@codeventures.net
 * *phone number:* +31 633035935
 * *drivers license:* European A (motorcycle)
