@@ -1,6 +1,6 @@
 % Curriculum Vitae
 % Joris van Rooij, Software Engineer and Ops Guy
-% Tue Jan 10 19:03:54 CET 2017
+% Fri May 11 13:27:38 CEST 2018
 
 ---------------------------------------
 
@@ -12,9 +12,10 @@
 * *citizenship:* Dutch
 * *year of birth:* 1987
 * *marital status:* Married
-* *email address:* jorrizza@codeventures.net
+* *email address:* jorrizza@jrrzz.net
+* *PGP key*: [5874 835A 8437 650D 1952  1630 1CE9 B2A0 5E47 1171](https://www.jrrzz.net/pubkey.txt)
 * *phone number:* +31 633035935
-* *drivers license:* European A (motorcycle)
+* *drivers license:* European A (motorcycle), European B (car)
 
 ## Education and Qualifications ##
 
@@ -28,6 +29,10 @@ Dr. Knippenbergcollege, Helmond
 
 ## Work Experience ##
 
+### *2018-now:* Lead Developer at *Jibe Company* ###
+
+Top secret stuff.
+
 ### *2013-now:* Co-founder and DevOps Connaisseur at *Constructors* ###
 
 A group of likeminded individuals forming a full service web engineering
@@ -36,12 +41,6 @@ our in-house hosting platform. It includes automatic deployment, monitoring and
 analytics of mission critical applications in many countries for a wide range of
 customers. Sometimes I can also be seen doing some Ruby on Rails or Django web
 development work.
-
-### *2012-now:* Software Engineer at *ViaViela B.V.* ###
-
-Mainly Ruby on Rails development and day-to-day operations. This includes cloud
-services like Heroku and Amazon S3. I'm also responsible for managing the
-existing legacy Linux systems and OpenBSD infrastructure.
 
 ### *2010-now:* Benevolent Dictator at *CodeVentures B.V.* ###
 
@@ -52,6 +51,12 @@ DevOps related.
 
 Linux/Unix enthusiasts sharing rack space and a common domain name. It's still
 hosting mail, development space, websites and some communication relay services.
+
+### *2012-2018:* Software Engineer at *ViaViela B.V.* ###
+
+Mainly Ruby on Rails development and day-to-day operations. This included cloud
+services like Heroku and Amazon S3. I was also responsible for managing the
+existing legacy Linux systems and OpenBSD infrastructure.
 
 ### *2010-2015:* Co-owner and founder at *Tussen B.V.* ###
 
@@ -114,9 +119,9 @@ the bits and pieces needed to keep systems working properly.
 
 ### Networking ###
 
-Network topologies and design, VPNs (Tinc, OpenVPN), routing and firewalling
-using *BSD and/or Linux, DNS, DHCP, PXE, TCP/IP and several other related
-acronyms.
+Network topologies and design, VPNs (Tinc, OpenVPN, Wireguard), routing and
+firewalling using *BSD and/or Linux, DNS, DHCP, PXE, TCP/IP and several other
+related acronyms.
 
 ### Databases ###
 
@@ -130,4 +135,4 @@ Agile/Scrum, XP, Waterfall and none at all.
 ## Hobbies and Interests ##
 
 Motorcycle traveling, (political) philosophy, civil rights, obscure computer
-hardware and a bit of photography.
+hardware and herding hounds.
