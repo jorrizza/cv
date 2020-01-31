@@ -1,6 +1,6 @@
 % Curriculum Vitae
-% Joris van Rooij, Software Engineer and Ops Guy
-% Fri May 11 13:27:38 CEST 2018
+% Joris van Rooij, Software Engineer and Architect
+% Fri 31 Jan 2020 04:29:45 PM CET
 
 ---------------------------------------
 
@@ -29,9 +29,15 @@ Dr. Knippenbergcollege, Helmond
 
 ## Work Experience ##
 
-### *2018-now:* Lead Developer at *Jibe Company* ###
+### *2018-now:* Lead Developer and Software Architect at *Jibe.Company* ###
 
-Top secret stuff.
+Working on several projects for a number of large, international
+organisations. These projects range from blockchain-based data security
+projects to embedded software. Often working with an international team of
+experts, for many international clients.
+
+The work at Jibe.Company mainly focuses on software architecture, operational
+security, and scalabilty.
 
 ### *2013-now:* Co-founder and DevOps Connaisseur at *Constructors* ###
 
@@ -42,15 +48,16 @@ analytics of mission critical applications in many countries for a wide range of
 customers. Sometimes I can also be seen doing some Ruby on Rails or Django web
 development work.
 
-### *2010-now:* Benevolent Dictator at *CodeVentures B.V.* ###
+### *2010-2019:* Benevolent Dictator at *CodeVentures B.V.* ###
 
 Running my own company doing pretty much all sorts of IT-related work. Mainly
 DevOps related.
 
-### *2005-now:* Co-founder at *WasdaPuntEnEl* ###
+### *2005-now:* Co-founder at *wasda* ###
 
-Linux/Unix enthusiasts sharing rack space and a common domain name. It's still
-hosting mail, development space, websites and some communication relay services.
+Initially, Linux/Unix enthusiasts sharing rack space and a common domain
+name. Since 2019 incorporated as a company with a focus on research and product
+development in the software development sector.
 
 ### *2012-2018:* Software Engineer at *ViaViela B.V.* ###
 
@@ -98,9 +105,9 @@ Dutch (native), Brabantish (fluent), English (fluent)
 ### Programming Languages ###
 
 * *thorough understanding:*
-  C, Ruby, Go, JavaScript, PHP, Bash/sh, SQL
+  C, Ruby, Go, Python, PHP, Bash/sh, SQL
 * *basic understanding:*
-  Emacs Lisp, Lua, Python, Awk, C++, Java, Rust
+  Emacs Lisp, Lua, JavaScript, Awk, C++, Java, Rust
 
 ### Operating Systems ###
 
