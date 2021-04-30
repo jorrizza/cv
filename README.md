@@ -1,8 +1,18 @@
 % Curriculum Vitae
 % Joris van Rooij, Software Engineer and Architect
-% Fri 31 Jan 2020 04:29:45 PM CET
+% __NOW__
 
 ---------------------------------------
+
+## Introduction ##
+
+Starting out with an old Philips MSX II as a kid, and writing software ever
+since. Started using Linux in 2000 and haven't looked back. A fierce advocate of
+open-source software, digital rights, and operational security. Interested in
+everything software-related, from architecture and development, to operations
+and availability. Definitely a soft spot for well-designed distributed systems.
+
+Throughout my work, my leading philosophy is "keep it simple".
 
 ## Personal Details ##
 
@@ -12,8 +22,8 @@
 * *citizenship:* Dutch
 * *year of birth:* 1987
 * *marital status:* Married
-* *email address:* jorrizza@jrrzz.net
-* *PGP key*: [5874 835A 8437 650D 1952  1630 1CE9 B2A0 5E47 1171](https://www.jrrzz.net/pubkey.txt)
+* *email address:* cv@jrrzz.net
+* *PGP key*: [5874 835A 8437 650D 1952 1630 1CE9 B2A0 5E47 1171](https://www.jrrzz.net/pubkey.txt)
 * *phone number:* +31 633035935
 * *drivers license:* European A (motorcycle), European B (car)
 
@@ -29,24 +39,28 @@ Dr. Knippenbergcollege, Helmond
 
 ## Work Experience ##
 
-### *2018-now:* Lead Developer and Software Architect at *Jibe.Company* ###
+### *2018-now:* Lead Developer and Software Architect at *Jibe Company* ###
 
-Working on several projects for a number of large, international
-organisations. These projects range from blockchain-based data security
-projects to embedded software. Often working with an international team of
-experts, for many international clients.
+Working on several projects for a number of large, international organizations.
+These projects range from blockchain-based data security projects to embedded
+software. Often working with a team of experts, for many clients across the
+world. The work at Jibe.Company mainly focuses on software architecture,
+operational security, and scalabilty.
 
-The work at Jibe.Company mainly focuses on software architecture, operational
-security, and scalabilty.
+Tools of the trade include Kubernetes, Go, Python, Protobuf, PostgreSQL,
+Prometheus, and many more.
 
 ### *2013-now:* Co-founder and DevOps Connaisseur at *Constructors* ###
 
-A group of likeminded individuals forming a full service web engineering
+A group of like-minded individuals forming a full service web engineering
 bureau. I'm mainly responsible for keeping the applications running smoothly on
 our in-house hosting platform. It includes automatic deployment, monitoring and
 analytics of mission critical applications in many countries for a wide range of
 customers. Sometimes I can also be seen doing some Ruby on Rails or Django web
 development work.
+
+Tools of the trade include Debian, Ansible, Ruby, Nginx, systemd nspawn, SSH,
+Wireguard, Prometheus, Grafana, Loki, Gitlab, and many more.
 
 ### *2010-2019:* Benevolent Dictator at *CodeVentures B.V.* ###
 
@@ -55,15 +69,21 @@ DevOps related.
 
 ### *2005-now:* Co-founder at *wasda* ###
 
-Initially, Linux/Unix enthusiasts sharing rack space and a common domain
-name. Since 2019 incorporated as a company with a focus on research and product
-development in the software development sector.
+Initially, Linux/Unix enthusiasts sharing rack space and a common domain name.
+Since 2019 incorporated as a company (taking over CodeVentures responsibilities)
+with a focus on research and product development in the software development
+sector.
+
+Using C, Go, and every bit of cool tech under the sun. This is where the
+experimenting happens.
 
 ### *2012-2018:* Software Engineer at *ViaViela B.V.* ###
 
-Mainly Ruby on Rails development and day-to-day operations. This included cloud
-services like Heroku and Amazon S3. I was also responsible for managing the
-existing legacy Linux systems and OpenBSD infrastructure.
+Mainly software development and day-to-day IT operations for one of the
+country's largest childcare organizations.
+
+Tools of the trade include Ruby on Rails, HTML/CSS, Heroku, AWS, Debian, and
+OpenBSD.
 
 ### *2010-2015:* Co-owner and founder at *Tussen B.V.* ###
 
@@ -71,29 +91,30 @@ A joint venture of CodeVentures and Expleo to maximize awesomeness.
 
 ### *2010-2014:* Co-founder at *Mediaklapper* ###
 
-Managed and executed the construction of a development and hosting platform,
-hardware and all, for our in-house Ruby on Rails application. Main components
-include Debian, Nginx, Ruby, HAProxy, Nagios/Icinga and PostgreSQL. I've also
-built parts of the application, including a nifty ajaxy search engine.
+Mediaklapper was a VC funded start-up in advertising. Managed and executed the
+construction of a development and hosting platform, hardware and all, for our
+in-house Ruby on Rails application. Main components include Debian, Nginx, Ruby,
+HAProxy, Nagios/Icinga, and PostgreSQL. I've also built parts of the
+application, including a nifty ajaxy search engine.
 
 ### *2011-2012:* IT Consultant at *ViaViela B.V.* ###
 
 Kept the e-Viela! LNMP stack running. Managed a large VPN (OpenBSD, Tinc) for
-remote desktops (NX), telephony (Asterisk) and hosting. Did some software
+remote desktops (NX), telephony (Asterisk), and hosting. Did some software
 development as well. Mainly Ruby on Rails and PHP.
 
 ### *2006-2010:* Software Engineer at *e-Viela! B.V.* ###
 
 F/LOSS based software solutions for medium to big sized organizations. I've
 helped building one of the most awesome LAMP stacks in the world. Mainly using
-Debian GNU/Linux, Apache, MySQL, PHP, DRBD and Heartbeat2. The entire stack has
+Debian GNU/Linux, Apache, MySQL, PHP, DRBD, and Heartbeat2. The entire stack has
 been migrated to Nginx. I've helped introduce Linux desktops (NX) into the
 company. This company's activities have been merged into ViaViela B.V. in 2011.
 
 ### *2004-2008:* Software Engineer at *Eurovision Multimedia* ###
 
 Made them a web shop which integrated with existing sales software using PHP,
-Apache, MySQL and Linux. Apparently I didn't do too well. The company ceased to
+Apache, MySQL, and Linux. Apparently I didn't do too well. The company ceased to
 exist.
 
 ## Skills ##
@@ -128,18 +149,22 @@ the bits and pieces needed to keep systems working properly.
 
 Network topologies and design, VPNs (Tinc, OpenVPN, Wireguard), routing and
 firewalling using *BSD and/or Linux, DNS, DHCP, PXE, TCP/IP and several other
-related acronyms.
+related cool-sounding acronyms.
 
 ### Databases ###
 
-MySQL and PostgreSQL, both in clustered setups. MongoDB, Redis and
-memcached(b). SQLite too, to some extent.
+MySQL and PostgreSQL, both in clustered setups. MongoDB and Elasticsearch. Redis
+and memcached. SQLite and bbolt embedded databases.
 
-### Project management ###
+### Operations ###
 
-Agile/Scrum, XP, Waterfall and none at all.
+RabbitMQ, Gitlab, Docker, Kubernetes, Prometheus, Grafana, Loki, Graylog, etc.
+
+### Project Management ###
+
+Agile/Scrum, XP, Kanban, Waterfall and no management at all.
 
 ## Hobbies and Interests ##
 
-Motorcycle traveling, (political) philosophy, civil rights, obscure computer
-hardware and herding hounds.
+Motorcycle traveling, (political) philosophy, civil rights, cryptography,
+obscure computer hardware, and hounds.
