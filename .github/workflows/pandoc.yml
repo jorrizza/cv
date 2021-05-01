@@ -1,0 +1,17 @@
+name: Convert using pandoc
+on: push
+jobs:
+  convert_using_pandoc:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: sudo apt-get update && sudo apt-get install -y texlive-latex-extra texlive-latex-recommended texlive-luatex texlive-xetex wkhtmltopdf pandoc-citeproc pandoc make git
+      - run: make
+      - uses: "marvinpinto/action-automatic-releases@latest"
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          automatic_release_tag: "latest"
+          prerelease: false
+          title: "Curriculum Vitae"
+          files: |
+            cv.*
