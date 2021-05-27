@@ -42,10 +42,10 @@ Dr. Knippenbergcollege, Helmond
 ### *2018-now:* Lead Developer and Software Architect at *Jibe Company* ###
 
 Working on several projects for a number of large, international organizations.
-These projects range from blockchain-based data security projects to embedded
-software. Often working with a team of experts, for many clients across the
-world. The work at Jibe.Company mainly focuses on software architecture,
-operational security, and scalabilty.
+These projects range from blockchain-based data security projects, to electric
+vehicle charging grid management, to embedded software. Often working with a
+team of experts across Europe. The work at Jibe.Company mainly focuses on
+software architecture, operational security, and scalabilty.
 
 Tools of the trade include Kubernetes, Go, Python, Protobuf, PostgreSQL,
 Prometheus, and many more.
@@ -62,32 +62,28 @@ development work.
 Tools of the trade include Debian, Ansible, Ruby, Nginx, systemd nspawn, SSH,
 Wireguard, Prometheus, Grafana, Loki, Gitlab, and many more.
 
-### *2010-2019:* Benevolent Dictator at *CodeVentures B.V.* ###
-
-Running my own company doing pretty much all sorts of IT-related work. Mainly
-DevOps related.
-
 ### *2005-now:* Co-founder at *wasda* ###
 
 Initially, Linux/Unix enthusiasts sharing rack space and a common domain name.
-Since 2019 incorporated as a company (taking over CodeVentures responsibilities)
-with a focus on research and product development in the software development
-sector.
+Since 2019 incorporated as a company (taking over *CodeVentures*
+responsibilities) with a focus on research and product development in the
+software development sector.
 
 Using C, Go, and every bit of cool tech under the sun. This is where the
-experimenting happens.
+innovation happens.
 
-### *2012-2018:* Software Engineer at *ViaViela B.V.* ###
+### *2010-2019:* Benevolent Dictator at *CodeVentures* ###
+
+Running my own company doing pretty much all sorts of IT-related work. Merged
+into *wasda* in 2019.
+
+### *2012-2018:* Software Engineer at *ViaViela* ###
 
 Mainly software development and day-to-day IT operations for one of the
 country's largest childcare organizations.
 
 Tools of the trade include Ruby on Rails, HTML/CSS, Heroku, AWS, Debian, and
 OpenBSD.
-
-### *2010-2015:* Co-owner and founder at *Tussen B.V.* ###
-
-A joint venture of CodeVentures and Expleo to maximize awesomeness.
 
 ### *2010-2014:* Co-founder at *Mediaklapper* ###
 
@@ -97,19 +93,19 @@ in-house Ruby on Rails application. Main components include Debian, Nginx, Ruby,
 HAProxy, Nagios/Icinga, and PostgreSQL. I've also built parts of the
 application, including a nifty ajaxy search engine.
 
-### *2011-2012:* IT Consultant at *ViaViela B.V.* ###
+### *2011-2012:* IT Consultant at *ViaViela* ###
 
-Kept the e-Viela! LNMP stack running. Managed a large VPN (OpenBSD, Tinc) for
+Kept the *e-Viela!* LNMP stack running. Managed a large VPN (OpenBSD, Tinc) for
 remote desktops (NX), telephony (Asterisk), and hosting. Did some software
 development as well. Mainly Ruby on Rails and PHP.
 
-### *2006-2010:* Software Engineer at *e-Viela! B.V.* ###
+### *2006-2010:* Software Engineer at *e-Viela!* ###
 
 F/LOSS based software solutions for medium to big sized organizations. I've
 helped building one of the most awesome LAMP stacks in the world. Mainly using
 Debian GNU/Linux, Apache, MySQL, PHP, DRBD, and Heartbeat2. The entire stack has
 been migrated to Nginx. I've helped introduce Linux desktops (NX) into the
-company. This company's activities have been merged into ViaViela B.V. in 2011.
+company. This company's activities have been merged into *ViaViela* in 2011.
 
 ### *2004-2008:* Software Engineer at *Eurovision Multimedia* ###
 
@@ -134,10 +130,6 @@ Dutch (native), Brabantish (fluent), English (fluent)
 
 (mostly Debian) GNU/Linux, OpenBSD, FreeBSD
 
-### Servers ###
-
-Sun Microsystems, HP, Supermicro hardware. KVM/libvirt virtual machines.
-
 ### Hosting ###
 
 From generic LAMP to unique application-specific constructions. Load balancing
@@ -158,7 +150,8 @@ and memcached. SQLite and bbolt embedded databases.
 
 ### Operations ###
 
-RabbitMQ, Gitlab, Docker, Kubernetes, Prometheus, Grafana, Loki, Graylog, etc.
+RabbitMQ, Gitlab, Docker, Kubernetes, Ansible, Prometheus, Grafana, Loki,
+Graylog, etc.
 
 ### Project Management ###
 

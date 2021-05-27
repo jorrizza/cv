@@ -11,6 +11,12 @@ clean:
 cv.html: README.md
 	sed "s/__NOW__/$(date)/" $< | pandoc -s -t html5 -o $@
 
+cv.pdf: README.md
+	sed "s/__NOW__/$(date)/" $< | pandoc -s -o $@ \
+	-V geometry:a4paper \
+	-V geometry:margin=3cm \
+	-V fontfamily:dejavu
+
 cv.%: README.md
 	sed "s/__NOW__/$(date)/" $< | pandoc -s -o $@
 
