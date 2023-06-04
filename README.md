@@ -1,5 +1,5 @@
 % Curriculum Vitae
-% Joris van Rooij, Software Engineer and Architect
+% Joris van Rooij, Lead Engineer
 % __NOW__
 
 ---------------------------------------
@@ -18,7 +18,7 @@ Throughout my work, my leading philosophy is "keep it simple".
 
 * *name:* Joris van Rooij
 * *gender:* Male
-* *place of residence:* Eindhoven, the Netherlands
+* *place of residence:* Son, the Netherlands
 * *citizenship:* Dutch
 * *year of birth:* 1987
 * *marital status:* Married
