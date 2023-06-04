@@ -39,7 +39,7 @@ Dr. Knippenbergcollege, Helmond
 
 ## Work Experience ##
 
-### *2021-now:*: Lead DevOps Engineer at *Sendcloud* ###
+### *2021-now:* Lead DevOps Engineer at *Sendcloud* ###
 
 Started a DevOps team from scratch to introduce the mindset to the engineering
 teams at Sendcloud by means of education and automation. The end goal is to no
