@@ -39,7 +39,17 @@ Dr. Knippenbergcollege, Helmond
 
 ## Work Experience ##
 
-### *2018-now:* Lead Developer and Software Architect at *Jibe Company* ###
+### *2021-now:*: Lead DevOps Engineer at *Sendcloud* ###
+
+Started a DevOps team from scratch to introduce the mindset to the engineering
+teams at Sendcloud by means of education and automation. The end goal is to no
+longer need a DevOps team, enabling all engineers to independently develop and
+maintain their software in production.
+
+Tools of the trade include Kubernetes, Amazon Web Services, Python, Go, Tech
+Copywriting, Teaching, GitLab, Datadog, and many more.
+
+### *2018-2021:* Lead Developer and Software Architect at *Jibe Company* ###
 
 Working on several projects for a number of large, international organizations.
 These projects range from blockchain-based data security projects, to electric
