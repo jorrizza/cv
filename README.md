@@ -23,7 +23,7 @@ Throughout my work, my leading philosophy is "keep it simple".
 * *year of birth:* 1987
 * *marital status:* Married
 * *email address:* cv@jrrzz.net
-* *PGP key*: [5874 835A 8437 650D 1952 1630 1CE9 B2A0 5E47 1171](https://www.jrrzz.net/pubkey.txt)
+* *PGP key*: [C842 7316 51DA 8B7C 9F34 B546 7B07 42A5 E4CB 4D57](https://www.jrrzz.net/pubkey.txt)
 * *phone number:* +31 633035935
 * *drivers license:* European A (motorcycle), European B (car)
 
