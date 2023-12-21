@@ -12,7 +12,7 @@ build:
   image: debian:stable
   script:
     - apt-get update
-    - apt-get install -y texlive-latex-extra texlive-latex-recommended texlive-luatex texlive-xetex texlive-fonts-extra wkhtmltopdf pandoc-citeproc pandoc make git
+    - apt-get install -y texlive-latex-extra texlive-latex-recommended texlive-luatex texlive-xetex texlive-fonts-extra wkhtmltopdf pandoc make git
     - make
   artifacts:
     paths:
